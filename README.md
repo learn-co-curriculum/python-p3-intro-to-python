@@ -1,9 +1,9 @@
-# Intro to Ruby
+# Intro to Python
 
 ## Learning Goals
 
 - Understand how to learn a new programming language
-- Learn the benefits and philosophy of Ruby as a language
+- Learn the benefits and philosophy of Python as a language
 
 ## Introduction
 
@@ -22,19 +22,30 @@ how to **debug code**; how to **search for help** when you're stuck; how to
 With those tools at your disposal, learning your second language (and your
 third, and fourth) will be easier than the first.
 
-To help you on this journey of your second language, Ruby, this curriculum will
+To help you on this journey of your second language, Python, this curriculum will
 start by introducing new syntax and showing the similarities and differences
-between Ruby and JavaScript (they have more in common than you may think). Once
-you've learned the fundamentals, we'll explore what makes Ruby unique and start
+between Python and JavaScript (they have more in common than you may think). Once
+you've learned the fundamentals, we'll explore what makes Python unique and start
 building new applications.
 
 As you're learning, it's ok (and completely normal) to make mistakes: every
 developer that switches between languages forgets syntax (is it `.toUpperCase()`
-or `.upcase`?) and needs to [look at the documentation][ruby docs upcase]
+or `.upper()`?) and needs to [look at the documentation][python docs upper]
 regularly. The most important things are to **write code** to develop your
 muscle memory, and trust that you'll get better with practice.
 
-## What is Ruby and Where Did it Come From?
+## What is Python and Where Did it Come From?
+
+Python is an interpreted, object-oriented, high-level programming language with
+dynamic semantics. Its high-level built in data structures, combined with
+dynamic typing and dynamic binding, make it very attractive for Rapid Application
+Development, as well as for use as a scripting or glue language to connect
+existing components together. Python's simple, easy to learn syntax emphasizes
+readability and therefore reduces the cost of program maintenance. Python
+supports modules and packages, which encourages program modularity and code
+reuse. The Python interpreter and the extensive standard library are available
+in source or binary form without charge for all major platforms, and can be
+freely distributed.
 
 Ruby is a dynamic object-oriented, general-purpose programming language. It was
 designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan.
@@ -130,4 +141,4 @@ reference!
 - [Ruby Solargraph VSCode Extension](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
 
 [ruby docs]: https://ruby-doc.org
-[ruby docs upcase]: https://ruby-doc.org/core-2.7.3/String.html#method-i-upcase
+[python docs upper]: https://docs.python.org/3/library/stdtypes.html#str.upper
