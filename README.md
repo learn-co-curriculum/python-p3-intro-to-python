@@ -36,31 +36,31 @@ muscle memory, and trust that you'll get better with practice.
 
 ## What is Python and Where Did it Come From?
 
-Python is an interpreted, object-oriented, high-level programming language with
-dynamic semantics. Its high-level built in data structures, combined with
-dynamic typing and dynamic binding, make it very attractive for Rapid Application
-Development, as well as for use as a scripting or glue language to connect
-existing components together. Python's simple, easy to learn syntax emphasizes
-readability and therefore reduces the cost of program maintenance. Python
-supports modules and packages, which encourages program modularity and code
+Python is an interpreted, object-oriented programming language. Its high-level
+built-in data structures and dynamic typing make it very useful for fast
+development of new applications, as well as scripting or "glue" code to combine
+existing components written in different languages. Python's simple, easy to
+learn syntax emphasizes readability and therefore reduces the cost and
+complication of long-term program maintenance. Python supports modules and
+packages for containing code, which encourages program modularity and code
 reuse. The Python interpreter and the extensive standard library are available
-in source or binary form without charge for all major platforms, and can be
+in source or binary form without charge on all major platforms and may be
 freely distributed.
 
-Ruby is a dynamic object-oriented, general-purpose programming language. It was
-designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan.
-Matsumoto, often referred to as "Matz", first developed the idea for Ruby in the
-early 1990s. From Matz's post to the _ruby-talk_ mailing list in 1999:
+Guido van Rossum began development of Python in 1989 as a side project while
+working at Centrum Wiskunde & Informatica (CWI) in the Netherlands. Van Rossum
+thought of Python as a successor to the ABC programming language, one he had
+helped create earlier in his career. He liked many of the features in ABC, but
+took issue with many others. Now that he had the skill and opportunity to
+create his own language, he took his favorite pieces from ABC and added or
+changed functionality where he saw fit. He gave the new language the name
+"Python" (after Monty Python's Flying Circus) and named himself "Benevolent
+Dictator for Life." Despite the authoritarian title, van Rossum has always been
+a champion of workplace inclusivity, especially with respect to gender
+equality.
 
-> I was talking with my colleague about the possibility of an object-oriented
-> scripting language. I knew Perl (Perl4, not Perl5), but I didn't like it
-> really, because it had the smell of a toy language (it still has). The
-> object-oriented language seemed very promising. I knew Python then. But I
-> didn't like it, because I didn't think it was a true object-oriented language
-> — OO features appeared to be add-on to the language. As a language maniac and
-> OO fan for 15 years, I really wanted a genuine object-oriented, easy-to-use
-> scripting language. I looked for but couldn't find one. So I decided to make
-> it.
+The interpreter and standard library were made available to
+the public in 1991.
 
 ## Why Do Developers Love It?
 
