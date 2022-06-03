@@ -77,15 +77,13 @@ that they hadn't seen before.
 > actually build a whole new language, design and implement it from scratch, and
 > then use it to implement our suite of tools and still be ahead of the game
 > compared to a situation where we would have just clunked on writing the things
-> we wanted to write in C.
-> ...
+> we wanted to write in C.<br>
 > For three months I did my day job, and at night and whenever I got a chance I
 > kept working on Python. After three months I was to the point where I could
 > tell people, “Look here, this is what I built.” It had an interactive
 > interpreter loop, so the first demos were all, “Let's assign an expression to
 > a variable and print it back,” or “Let's define a small function and call it,”
-> or “Let's put some things in an array and iterate over the array.”
-> ...
+> or “Let's put some things in an array and iterate over the array.”<br>
 > My two office mates were almost instantly taken with it and started
 > helping out. A few others within the institute were also excited about Python.
 > We didn't use it on Amoeba right away because it wasn't mature enough to
