@@ -83,8 +83,6 @@ best:
 >
 > — Yukihiro Matsumoto
 
-![Yukihiro Matsumoto](http://readme-pics.s3.amazonaws.com/imgres-1.jpg)
-
 ## What Can Ruby Do?
 
 In the first two phases of the program, you used JavaScript primarily for one
