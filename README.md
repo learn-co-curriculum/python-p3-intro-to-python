@@ -5,6 +5,27 @@
 - Understand how to learn a new programming language
 - Learn the benefits and philosophy of Python as a language
 
+***
+
+## Key Vocab
+
+- **Interpreter**: a program that executes other programs. Python programs
+require the Python interpreter to be installed on your computer so that they
+can be run.
+- **Python Shell**: an interactive interpreter that can be accessed from the
+command line.
+- **Data Type**: a specific kind of data. The Python interpreter uses these
+types to determine which actions can be performed on different data items.
+- **Exception**: a type of error that can be predicted and handled without
+causing a program to crash.
+- **Code Block**: a collection of code that is interpreted together. Python
+groups code blocks by indentation level.
+- **Function**: a named code block that performs a sequence of actions when it
+is called.
+- **Scope**: the area in your program where a specific variable can be called.
+
+***
+
 ## Introduction
 
 Throughout your career as a developer, it's highly likely that you'll be
@@ -34,6 +55,8 @@ or `.upper()`?) and needs to [look at the documentation][python docs upper]
 regularly. The most important things are to **write code** to develop your
 muscle memory, and trust that you'll get better with practice.
 
+***
+
 ## What is Python and Where Did it Come From?
 
 Python is an interpreted, object-oriented programming language. Its high-level
@@ -61,6 +84,8 @@ equality.
 
 The interpreter and standard library were made available to
 the public in 1991.
+
+***
 
 ## Why Do Developers Love It?
 
@@ -98,6 +123,8 @@ backend language in the world, trailing only the omnipresent JavaScript among
 all languages. More developers want to learn Python than any other language,
 and more employers are seeking developers with experience in Python than _any_
 other language (even JavaScript!)
+
+***
 
 ## What Can Python Do?
 
@@ -145,6 +172,8 @@ doing and explore all the great features Python has to offer.
 
 Be sure to check out the resources below as well, and bookmark them for future
 reference!
+
+***
 
 ## Resources
 
