@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Understand how to learn a new programming language
-- Learn the benefits and philosophy of Python as a language
+- Understand how to learn a new programming language.
+- Learn the benefits and philosophy of Python as a language.
 
 ***
 
