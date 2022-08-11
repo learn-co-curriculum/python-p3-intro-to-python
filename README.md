@@ -137,10 +137,10 @@ using it for frontend development.
 Building web applications in JavaScript means we have all kinds of great tools
 at our disposal thanks to working in the browser environment:
 
-- Make network requests
-- Update the DOM
-- Listen for events
-- Debug our code in the browser's developer tools
+- Make network requests.
+- Update the DOM.
+- Listen for events.
+- Debug our code in the browser's developer tools.
 
 But it also means working in a **sandboxed environment** that can't take full
 advantage of everything our computers are capable of, like accessing the file
@@ -152,17 +152,17 @@ Writing these kind of applications will mean familiarizing yourself with a new
 environment. It also means you'll have a new set of tools and features at your
 disposal, which is awesome! We can use Python to do all sorts of things, like
 
-- Read and write files
-- Listen for network requests and send responses
-- Connect to a database to access and update data
+- Read and write files.
+- Listen for network requests and send responses.
+- Connect to a database to access and update data.
 
 Thanks to Python's flexibility, it means we can make all kinds of different
 applications, not just web applications:
 
-- Command line interfaces
-- Web servers
-- Games
-- Web scrapers
+- Command line interfaces (CLIs).
+- Web servers.
+- Games.
+- Web scrapers.
 
 Since you'll be learning a new environment, it's important to familiarize
 yourself not only with Python's syntax, but also how to run and debug Python
