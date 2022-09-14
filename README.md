@@ -90,7 +90,7 @@ the public in 1991.
 ## Why Do Developers Love It?
 
 Every programming language was originally designed to solve some kind of
-problem. For example, JavaScript was created by Brendan Eich help developers
+problem. For example, JavaScript was created by Brendan Eich to help developers
 make web pages interactive.
 
 Python was developed because Guido and his team at CWI found it exhausting to
