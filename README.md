@@ -90,7 +90,7 @@ the public in 1991.
 ## Why Do Developers Love It?
 
 Every programming language was originally designed to solve some kind of
-problem. For example, JavaScript was created by Brendan Eich help developers
+problem. For example, JavaScript was created by Brendan Eich to help developers
 make web pages interactive.
 
 Python was developed because Guido and his team at CWI found it exhausting to
@@ -135,16 +135,17 @@ thanks to Node, we've stayed true to the original intent of the language by
 using it for frontend development.
 
 Building web applications in JavaScript means we have all kinds of great tools
-at our disposal thanks to working in the browser environment:
+at our disposal thanks to working in the browser environment. We can:
 
 - Make network requests.
 - Update the DOM.
 - Listen for events.
 - Debug our code in the browser's developer tools.
 
-But it also means working in a **sandboxed environment** that can't take full
-advantage of everything our computers are capable of, like accessing the file
-system, or connecting directly to a database, or listening for HTTP requests.
+But it also means working in a sandboxed environment. JavaScript's separation
+from our computers' innermost components means that it can't take full advantage
+of everything our computers are capable of, like accessing the file system, or
+connecting directly to a database, or listening for HTTP requests.
 
 Python, on the other hand, **can't** run in the browser. Learning Python means
 you can build different kinds of programs: **server-side** applications.
