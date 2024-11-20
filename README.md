@@ -182,7 +182,6 @@ reference!
 - [Python documentation][python docs]
 - [Python Style Guide](https://peps.python.org/pep-0008/)
 - [Python VSCode Extension](https://code.visualstudio.com/docs/languages/python)
-- [Kite VSCode Extension](https://www.kite.com/)
 - [Guido van Rossum: The Early Years of Python](https://www.computer.org/csdl/magazine/co/2015/02/mco2015020007/13rRUy3gmYB)
 
 [python docs]: https://docs.python.org/3/
